@@ -8,7 +8,7 @@ I'm Sanjay.
 
 🌱 I’m currently learning...
 
-- GoLang, by building a [Twitch chatbot](https://github.com/Nirespre/twitchbot)
+- GoLang, by building a [Twitch chatbot](https://github.com/Nirespire/twitchbot)
 - Full Stack Typescript, by building a Pull Request Dashboard called [Eyes Please](https://github.com/Nirespire/eyes-please)
 - To become a better writer over at [Medium](https://medium.com/@nirespire)
 
