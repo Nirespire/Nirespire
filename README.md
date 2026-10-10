@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Sanjay, a software engineering leader who likes building great products and teams, and tinkering with infrastructure and AI tooling on the side.
+I'm Sanjay, a software engineering leader based in Atlanta, Georgia. I like leading full-stack teams, building great products, and tinkering with infrastructure and AI tooling on the side.
 
 🔭 I'm currently working on...
 
@@ -12,8 +12,9 @@ I'm Sanjay, a software engineering leader who likes building great products and 
 
 - Working effectively with AI coding agents (Claude Code skills, spec → tickets → implement → review workflows)
 - Safe automation for infrastructure as code with [Terraform](https://developer.hashicorp.com/terraform)
+- How agentic engineering reshapes teams and PR review, from my [reading list](https://sanjaynair.me/reads/) (lately: software factories, plan mode, MCP, and engineering management)
 - Writing more on my [blog](https://sanjaynair.me/blog/), most recently a practical intro to GenAI terms
 
-📫 Reach me via [email@sanjaynair.dev](mailto:email@sanjaynair.dev) or on [LinkedIn](https://www.linkedin.com/in/sanjaynair8/)
+📫 Reach me via [email@sanjaynair.dev](mailto:email@sanjaynair.dev) , [LinkedIn](https://www.linkedin.com/in/sanjaynair8/), [Bluesky](https://bsky.app/profile/nirespire.bsky.social), or [X](https://x.com/Nirespire)
 
 😄 Pronouns: He/Him
