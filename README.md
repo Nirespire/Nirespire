@@ -15,6 +15,6 @@ I'm Sanjay, a software engineering leader based in Atlanta, Georgia. I like lead
 - How agentic engineering reshapes teams and PR review, from my [reading list](https://sanjaynair.me/reads/) (lately: software factories, plan mode, MCP, and engineering management)
 - Writing more on my [blog](https://sanjaynair.me/blog/), most recently a practical intro to GenAI terms
 
-📫 Reach me via [email@sanjaynair.dev](mailto:email@sanjaynair.dev) , [LinkedIn](https://www.linkedin.com/in/sanjaynair8/), [Bluesky](https://bsky.app/profile/nirespire.bsky.social), or [X](https://x.com/Nirespire)
+📫 Reach me via [email@sanjaynair.dev](mailto:email@sanjaynair.dev) or on [LinkedIn](https://www.linkedin.com/in/sanjaynair8/)
 
 😄 Pronouns: He/Him
